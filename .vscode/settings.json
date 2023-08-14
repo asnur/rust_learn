@@ -3,6 +3,7 @@
     ".\\variable\\Cargo.toml",
     ".\\data_type\\Cargo.toml",
     ".\\operator\\Cargo.toml",
-    ".\\conditional\\Cargo.toml"
+    ".\\conditional\\Cargo.toml",
+    ".\\looping\\Cargo.toml"
   ]
 }
